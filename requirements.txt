@@ -1,0 +1,7 @@
+dash
+pandas
+plotly
+numpy
+gunicorn
+yfinance == 0.2.50
+streamlit
