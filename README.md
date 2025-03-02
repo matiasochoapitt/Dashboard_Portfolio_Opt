@@ -4,4 +4,4 @@ This dashboard intends to help people with their own Portfolios at the time of s
 
 Finally, a chart is displayed were the performance of the Portfolio is compared to the one of the S&P 500 in the timeframe chosen.
 
-** Deploy ** was done using streamlit, here is the link: https://portfolio-optimization-mo.streamlit.app/
+**Deploy** was done using streamlit, here is the link: https://portfolio-optimization-mo.streamlit.app/
